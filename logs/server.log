@@ -3,15 +3,15 @@
 > vite
 
 
-  VITE v5.4.20  ready in 272 ms
+  VITE v5.4.20  ready in 274 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.1.83:3000/
-6:22:00 PM [vite] Pre-transform error: Transform failed with 1 error:
+7:09:34 PM [vite] Pre-transform error: Transform failed with 1 error:
 /home/workspace/src/components/MagicalWorld.jsx:45:107: ERROR: Expected identifier after "http:" in namespaced JSX name
-6:22:00 PM [vite] Pre-transform error: Transform failed with 1 error:
+7:09:34 PM [vite] Pre-transform error: Transform failed with 1 error:
 /home/workspace/src/components/EndingScene.jsx:34:110: ERROR: Expected identifier after "http:" in namespaced JSX name
-6:22:03 PM [vite] Internal server error: Transform failed with 1 error:
+7:09:35 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/MagicalWorld.jsx:45:107: ERROR: Expected identifier after "http:" in namespaced JSX name
   Plugin: vite:esbuild
   File: /home/workspace/src/components/MagicalWorld.jsx:45:107
@@ -34,7 +34,7 @@
       at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
       at Readable.push (node:internal/streams/readable:390:5)
       at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-6:22:03 PM [vite] Internal server error: Transform failed with 1 error:
+7:09:35 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/EndingScene.jsx:34:110: ERROR: Expected identifier after "http:" in namespaced JSX name
   Plugin: vite:esbuild
   File: /home/workspace/src/components/EndingScene.jsx:34:110
@@ -57,7 +57,7 @@
       at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
       at Readable.push (node:internal/streams/readable:390:5)
       at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-6:22:27 PM [vite] Internal server error: Transform failed with 1 error:
+7:10:04 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/MagicalWorld.jsx:45:107: ERROR: Expected identifier after "http:" in namespaced JSX name
   Plugin: vite:esbuild
   File: /home/workspace/src/components/MagicalWorld.jsx:45:107
@@ -80,7 +80,7 @@
       at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
       at Readable.push (node:internal/streams/readable:390:5)
       at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-6:22:28 PM [vite] Internal server error: Transform failed with 1 error:
+7:10:04 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/EndingScene.jsx:34:110: ERROR: Expected identifier after "http:" in namespaced JSX name
   Plugin: vite:esbuild
   File: /home/workspace/src/components/EndingScene.jsx:34:110
